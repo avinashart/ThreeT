@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="action_settings">Reset</string>
+    <string name="advanced_bluetooth">Bluetooth</string>
+    <string name="five"/>
+    <string name="bar1"/>
+    <string name="bar2"/>
+    <string name="bar4"/>
+    <string name="bar3"/>
+    <string name="six"/>
+    <string name="four"/>
+    <string name="two"/>
+    <string name="three"/>
+    <string name="one"/>
+    <string name="nine"/>
+    <string name="eight"/>
+    <string name="seven"/>
+    <string name="topDisplay"/>
+    <string name="bottomDisplay">PLAYER-1</string>
+    <string name="won_message"/>
+
+</resources>
